@@ -1,0 +1,172 @@
+{
+    "title": {
+        "media": {
+          "url": "../img/timeline/storica.jpg",
+          "caption": "",
+          "credit": "Archivio Storico"
+        },
+        "start_date": {
+          "year": "1612"
+        },
+        "text": {
+          "headline": "Università di Sassari",
+          "text": "<p><strong>fondata nel 1612</strong></p><p>Lectorum mirum est notare quam littera gothica quam nunc putamus parum claram anteposuerit. Qui sequitur mutationem consuetudium litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "../img/timeline/225px-Contebogino.jpg",
+          "caption": "Giovanni Battista Lorenzo Bogino",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1766"
+        },
+         "group":"storia università",
+        "text": {
+          "headline": "Il ministro Bogino riforma l'Università",
+          "text": "<p>Ministro del Regno  per gli affari di Sardegna dal 1759 al 1773, rinnovò radicalmente le Università sarde.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/440px-Cetti_Sardinia.png",
+          "caption": "Illustrazioni tratte dalla Storia naturale di Sardegna",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1774"
+        },
+         "end_date": {
+          "year": "1778"
+        },
+        "group":"personaggi università",
+        "text": {
+          "headline": "Francesco Cetti",
+          "text": "<p>Gesuita, titolare della cattedra di matematica e autore della Storia naturale di Sardegna.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/Electrophore_de_Volta.jpg",
+          "caption": "elettroforo di Volta",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1775"
+        },
+         "group":"scoperte scientifiche",
+        "text": {
+          "headline": "A. Volta inventa l'elettroforo",
+          "text": "<p>è un generatore elettrostatico in grado di accumulare una modesta quantità di carica elettrica in modo discontinuo</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/la-presa-della-bastiglia-rivoluzione-francese.jpg",
+          "caption": "la presa della bastiglia",
+          "credit": "anonimo"
+        },
+        "start_date": {
+          "year": "1789"
+        },
+         "group":"storia",
+        "text": {
+          "headline": "Rivoluzione francese",
+          "text": "<p>14 luglio 1789: la presa della Bastiglia</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ingresso_a_Sassari.jpg/400px-Ingresso_a_Sassari.jpg",
+          "caption": "G.M. Angioy viene accolto trionfalmente a Sassari",
+          "credit": "Wikimedia"
+        },
+        "start_date": {
+          "year": "1794"
+        },
+         "group":"storia",
+        "text": {
+          "headline": "Sa die de sa Sardigna",
+          "text": "<p><strong>Moti anti-feudali:</strong> i Sardi si ribellano contro il governo piemontese.</p><p>Giovanni Maria Angioy, inviato dal vicerè in Sardegna per sedare i moti, si schiera dalla parte della popolazione oppressa.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gabrio_Casati.gif",
+          "caption": "Gabrio Casati",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1859"
+        },
+        "group":"storia università",
+        "text": {
+          "headline": "Un provvedimento di legge sopprime l'università di Sassari",
+          "text": "<p>Con la Legge Casati del 13/11/1859, che riformò l'intero ordinamento scolastico, l'Università di Sassari viene soppressa, ma la forte reazione delle istituzioni locali e della società civile portò alla revoca della norma</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Prof._Filippo_Fanzago.jpg",
+          "caption": "Filippo Fanzago",
+          "credit": "Wikimedia"
+        },
+        "start_date": {
+          "year": "1879"
+        },
+        "group":"personaggi università",
+        "text": {
+          "headline": "Filippo Fanzago, crea il primo gabinetto zoologico della Regia Università di Sassari",
+          "text": "<p>Zoologo evoluzionista, laureatosi a Padova nel 1872, è considerato l'iniziatore della collezione zoologica dell'Università di Sassari, alla quale attribuì da subito il massimo rilievo programmatico, didattico e sperimentale.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_%281871%29.jpg",
+          "caption": "Una tipica caricatura di Darwin come una scimmia sulla rivista Hornet",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1859"
+        },
+        "group":"scoperte scientifiche",
+        "text": {
+          "headline": "Darwin pubblica l'Origine delle specie",
+          "text": "<p>Il saggio contiene i principi della teoria evoluzionistica di Darwin basata sulla lotta per la sopravvivenza e sulla selezione naturale.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/mappa-italia.jpg",
+          "caption": "Il Regno d' Italia nel 1861",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1861"
+        },
+        "group":"storia",
+        "text": {
+          "headline": "Unità d'Italia",
+          "text": "<p>Il 17 marzo 1861 Vittorio Emanuele II proclama la nascita del Regno d'Italia (Legge del Regno di Sardegna n.4671)</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "1855"
+        },
+        "group":"storia",
+        "text": {
+          "headline": "Epidemia di colera a Sassari",
+          "text": "<p>Annus terribilis per la città: le vittime dell'epidemia furono 5000, oltre il 20% della popolazione sassarese. L'evento traumatico ebbe gravi ripercussioni di tipo demografico e sociale.</p>"
+        }
+      }
+     
+    ]
+}
