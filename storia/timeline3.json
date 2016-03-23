@@ -14,6 +14,184 @@
         }
     },
     "events": [
+    {
+        "media": {
+          "url": "../img/timeline/Alessio_Fontana.jpg",
+          "caption": "Alessio Fontana, Sassarese, maestro razionale del Regno di Sardegna, è considerato il fondatore dell'Università turritana",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1559"
+        },
+        "end_date": {
+          "year": "1562"
+        },
+         "group":"storia università",
+        "text": {
+          "headline": "Fondazione del collegio gesuitico",
+          "text": "<p>resa possibile dal lascito del cavaliere Alessio Fontana alla Compagnia di Gesù.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/canopolo.jpg",
+          "caption": "Ritratto di Antonio Canopolo, arcivescovo di Oristano a partire dal 1588",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1540"
+        },
+         "group":"personaggi università",
+        "text": {
+          "headline": "Antonio Canopolo",
+          "text": "<p>Benefattore e finanziatore dell'Università di Sassari.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/ferdinando-magellano.jpg",
+          "caption": "Ferdinando Magellano, esploratore e navigatore portoghese al servizio della corona di Spagna durante il regno di Carlo V",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1519"
+        },
+        "end_date": {
+          "year": "1522"
+        },
+         "group":"scoperte scientifiche",
+        "text": {
+          "headline": "Ferdinando Magellano",
+          "text": "<p>compie la prima circumnavigazione della Terra.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/Compagnia_di Gesu_visione.jpg",
+          "caption": "Secondo la tradizione, prima di entrare a Roma, Ignazio di Loyola ricevette la visione di Dio Padre insieme a Cristo con la Croce, che lo invitavano a essere loro servo e gli assicuravano sostegno presso il Papa.",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1537"
+        },     
+         "group":"storia",
+        "text": {
+          "headline": "Nascita della Compagnia di Gesù",
+          "text": "<p>A Vicenza Ignazio di Loyola e compagni decidono di dare alla propria confraternita il nome di Compagnia di Gesù, ispirandosi alla sua figura come modello di vita.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/Verlesung_der_Confessio_Augustana.jpg",
+          "caption": "Carlo V riceve la Confessio Augustana.",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1556"
+        },     
+         "group":"storia",
+        "text": {
+          "headline": "Carlo V d'Asburgo firma la pace d'Augusta con i principi protestanti.",
+          "text": "<p>Il trattato sancisce l'entrata in vigore del principio cuius regio, eius religio, secondo il quale in ogni paese i sudditi dovevano professare la religione adottata dal proprio sovrano.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/Corteo_funebre_Carlo_V.jpg",
+          "caption": "Corteo funebre di Carlo I con la bandiera del regno di Sardegna.",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1516"
+        },     
+         "group":"storia",
+        "text": {
+          "headline": "La Sardegna sotto il dominio della Corona di Spagna.",
+          "text": "<p>Il regno di Carlo I (1500-1558) coincide con un periodo di prosperità economica e culturale per l'isola.</p>"
+        }
+      },
+       {
+        "media": {
+          "url": "../img/timeline/Battle_of_Lepanto_1571.jpg",
+          "caption": "La battaglia di Lepanto (artista sconosciuto).",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1571"
+        },     
+         "group":"storia",
+        "text": {
+          "headline": "Battaglia di Lepanto.",
+          "text": "<p>Scontro decisivo tra le flotte musulmane dell'Impero ottomano e quelle cristiane della coalizione delle potenze europee, pose fine alle razzie dei pirati barbareschi nel Mediterraneo e sulle coste della Sardegna.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/ateneo-stemma.png",
+          "caption": "Stemma storico dell'ateneo sassarese.",
+          "credit": "uniss.it"
+        },
+        "start_date": {
+          "year": "1618"
+        },     
+         "group":"storia università",
+        "text": {
+          "headline": "Università di diritto pontificio e regio.",
+          "text": " "
+
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/Galileo_Dialogo.jpg",
+          "caption": "la prima edizione",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "1632"
+        },     
+         "group":"scoperte scientifiche",
+        "text": {
+          "headline": "Galileo Galilei",
+          "text": "<p>pubblica il <strong>Dialogo sopra i due massimi sistemi del mondo</strong>.<br/><br/>Con questo trattato, che confuta il sistema tolemaico-aristotelico, si afferma un nuovo metodo scientifico che promuove la divulgazione con semplicità di linguaggio.</p>"
+
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/Ferdinando_II.jpg",
+          "caption": "Ferdinando II, imperatore del Sacro Romano Impero, durante la Guerra dei Trent'anni",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1618"
+        },     
+         "group":"storia",
+        "text": {
+          "headline": "Defenestrazione di Praga",
+          "text": "<p>L'episodio costituisce il <em>casus belli</em> della Guerra dei Trent'anni in Europa (1618-1648)</p>"
+
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/San_Saturnino_Cagliari.jpg",
+          "caption": "Basilica paleocristiana di San Saturnino, Cagliari. La chiesa è stata oggetto di indagini archeologiche da parte dell'arcivescovo di Cagliari Francisco d'Esquivel (1614-1624).",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1614"
+        },
+        "end_date": {
+          "year": "1624"
+        },     
+         "group":"sardegna",
+        "text": {
+          "headline": "<em>Sancti innumerabiles</em>",
+          "text": "<p>Nell'ambito della disputa per il primato tra le chiese di Sassari e Cagliari svolge un ruolo fondamentale il rinvenimento delle reliquie di martiri cristiani.</p>"
+
+        }
+      },
       {
         "media": {
           "url": "../img/timeline/225px-Contebogino.jpg",
@@ -86,7 +264,7 @@
         "start_date": {
           "year": "1794"
         },
-         "group":"storia",
+         "group":"sardegna",
         "text": {
           "headline": "Sa die de sa Sardigna",
           "text": "<p><strong>Moti anti-feudali:</strong> i Sardi si ribellano contro il governo piemontese.</p><p>Giovanni Maria Angioy, inviato dal vicerè in Sardegna per sedare i moti, si schiera dalla parte della popolazione oppressa.</p>"
@@ -166,7 +344,104 @@
           "headline": "Epidemia di colera a Sassari",
           "text": "<p>Annus terribilis per la città: le vittime dell'epidemia furono 5000, oltre il 20% della popolazione sassarese. L'evento traumatico ebbe gravi ripercussioni di tipo demografico e sociale.</p>"
         }
+      },
+       {
+        "media": {
+          "url": "../img/timeline/Universita_di_Sassari_facciata.jpg",
+          "caption": "Sede della facoltà di Agraria nel 1952 (precedentemente Caserma della Milizia Volontaria di Sicurezza Nazionale, 1938)",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1950"
+        },
+        "group":"storia università",
+        "text": {
+          "headline": "Istituzione delle Facoltà di Agraria e Scienze",
+          "text": "<p>Si amplia l'offerta formativa dell'Ateneo che aveva già attivati gli insegnamenti di Medicina, Giurisprudenza, Farmacia e Veterinaria.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/Segni_presidente.jpg",
+          "caption": "A. Segni e J.F. Kennedy durante una visita di stato al Quirinale",
+          "credit": "Wikipedia"
+        },
+        "start_date": {
+          "year": "1946"
+        },
+        "end_date": {
+          "year": "1951"
+        },
+        "group":"personaggi università",
+        "text": {
+          "headline": "Antonio Segni",
+          "text": "<p>Sassarese, rettore dell'Università, sottosegretario all'Agricoltura nel governo De Gasperi e infine Presidente della Repubblica (1962-1964), attuò la riforma agraria con intenti economici, politici e sociali.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/capocaccia.jpg",
+          "caption": "L'aereo di Antoine de Saint-Exupery sorvola Capocaccia (Alghero), 1944",
+          "credit": "John Phillips"
+        },
+        "start_date": {
+          "year": "1939"
+        },
+        "end_date": {
+          "year": "1945"
+        },
+        "group":"storia",
+        "text": {
+          "headline": "Seconda Guerra Mondiale",
+          "text": "<p>&nbsp;</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/WATSON-E-CRICK-COPERTINA.jpg",
+          "caption": "J. Watson e F. Crick con il modello di molecola di DNA costruito in laboratorio",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "1953"
+        },
+        "group":"scoperte scientifiche",
+        "text": {
+          "headline": "Scoperta della struttura a doppia elica del DNA",
+          "text": "<p>Il 25 aprile sulla rivista <em>Nature</em> viene pubblicato l'articolo scientifico di J. Watson e F. Crick, ricercatori presso il Cavendish Laboratory di Cambridge, sul modello di struttura a doppia elica della molecola di DNA</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/firmacostituzione.jpg",
+          "caption": "firma della costituzione italiana",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "1948"
+        },
+        "group":"sardegna",
+        "text": {
+          "headline": "La Sardegna è Regione a Statuto Speciale",
+          "text": "<p>Dopo l'entrata in vigore della Costituzione della Repubblica, il 26 Febbraio 1948 viene riconosciuto lo Statuto speciale della Regione Sardegna</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "../img/timeline/logo450uniss.jpg",
+          "caption": "Logo celebrativo per il 450enario della fondazione dell'Ateneo",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "2012"
+        },
+        "group":"storia università",
+        "text": {
+          "headline": "450esimo anniversario dalla fondazione dell'Università",
+          "text": "<p>&nbsp;</p>"
+        }
       }
+     
      
     ]
 }
