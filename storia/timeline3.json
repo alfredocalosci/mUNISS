@@ -10,7 +10,7 @@
         },
         "text": {
           "headline": "Università di Sassari",
-          "text": "<p><strong>fondata nel 1612</strong></p><p>Lectorum mirum est notare quam littera gothica quam nunc putamus parum claram anteposuerit. Qui sequitur mutationem consuetudium litterarum formas humanitatis per seacula quarta decima et quinta decima.</p>"
+          "text": "<p><strong>fondata nel 1612</strong></p><p>L’ Università di Sassari nasce nel 1562 come Collegio gesuitico, da cui prenderà avvio l’ateneo di diritto regio. Nel corso della sua lunga storia ha svolto un ruolo prezioso di formazione dei giovani sardi, sempre in collegamento con il mondo scientifico nazionale ed europeo.</p><p>Professori ed intellettuali dell’università sassarese sono stati in molti casi interpreti, come rappresentanti delle istituzioni, di scelte politiche ed economiche importanti per la Sardegna e l’Italia.</p>"
         }
     },
     "events": [
@@ -73,7 +73,7 @@
         },
         "start_date": {
           "year": "1537"
-        },     
+        },
          "group":"storia",
         "text": {
           "headline": "Nascita della Compagnia di Gesù",
@@ -88,7 +88,7 @@
         },
         "start_date": {
           "year": "1556"
-        },     
+        },
          "group":"storia",
         "text": {
           "headline": "Carlo V d'Asburgo firma la pace d'Augusta con i principi protestanti.",
@@ -103,7 +103,7 @@
         },
         "start_date": {
           "year": "1516"
-        },     
+        },
          "group":"storia",
         "text": {
           "headline": "La Sardegna sotto il dominio della Corona di Spagna.",
@@ -118,7 +118,7 @@
         },
         "start_date": {
           "year": "1571"
-        },     
+        },
          "group":"storia",
         "text": {
           "headline": "Battaglia di Lepanto.",
@@ -133,7 +133,7 @@
         },
         "start_date": {
           "year": "1618"
-        },     
+        },
          "group":"storia università",
         "text": {
           "headline": "Università di diritto pontificio e regio.",
@@ -149,7 +149,7 @@
         },
         "start_date": {
           "year": "1632"
-        },     
+        },
          "group":"scoperte scientifiche",
         "text": {
           "headline": "Galileo Galilei",
@@ -165,7 +165,7 @@
         },
         "start_date": {
           "year": "1618"
-        },     
+        },
          "group":"storia",
         "text": {
           "headline": "Defenestrazione di Praga",
@@ -184,7 +184,7 @@
         },
         "end_date": {
           "year": "1624"
-        },     
+        },
          "group":"sardegna",
         "text": {
           "headline": "<em>Sancti innumerabiles</em>",
@@ -332,9 +332,9 @@
       },
       {
         "media": {
-          "url": "",
-          "caption": "",
-          "credit": ""
+          "url": "../img/timeline/Vibrio_cholerae_dawikipedia.jpg",
+          "caption": "Vibrio cholerae visti al microscopio elettronico a scansione",
+          "credit": " <a href='https://it.wikipedia.org/wiki/Vibrio_cholerae'>Wikipedia</a>"
         },
         "start_date": {
           "year": "1855"
@@ -345,6 +345,39 @@
           "text": "<p>Annus terribilis per la città: le vittime dell'epidemia furono 5000, oltre il 20% della popolazione sassarese. L'evento traumatico ebbe gravi ripercussioni di tipo demografico e sociale.</p>"
         }
       },
+
+      {
+        "media": {
+          "url": "../img/timeline/GrayDettaglio_X_web.jpg",
+          "caption": "Un'illustrazione del volume",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "1858"
+        },
+        "group":"scoperte scientifiche",
+        "text": {
+          "headline": "Esce l’Anatomia del Gray",
+          "text": "<p>Forte delle illustrazioni di Henry Vandyke Carter, il volume anticipa un approccio moderno alla divulgazione anatomica, combinando praticità, economicità, qualità grafica e chiarezza espositiva.</p><p>Una pietra miliare della disciplina, specie in ambiente Anglosassone. Continuamente adattato, ampliato e aggiornato, Gray's Anatomy, nel 2015 è giunto alla 41ma edizione.</p>"
+        }
+      },
+
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=VONnnBbj4RU",
+          "caption": "Flora Analitica d'Italia",
+          "credit": " <a href='https://www.youtube.com/user/animazionedesign'>Laboratorio Animazione Design</a>"
+        },
+        "start_date": {
+          "year": "1898"
+        },
+        "group":"personaggi università",
+        "text": {
+          "headline": "Gli studi di Fiori sulla Botanica",
+          "text": "<p>Coordinando un lavoro di gruppo esteso a tutto il territorio nazionale Adriano Fiori realizza un'opera ampia e sistematica sulla flora italiana. Il volume dell'Iconographia che accompagna il testo, raccoglie più di 4000 tavole descrittive dettagliate, complete di ogni informazione necessaria: quasi un erbario in forma di libro, di facile consultazione anche sul campo.</p><p>L'opera, dopo l'uscita del primo volume nel 1898, si protrasse con integrazioni e aggiustamenti successivi fino al 1929.</p>"
+        }
+      },
+
        {
         "media": {
           "url": "../img/timeline/Universita_di_Sassari_facciata.jpg",
@@ -414,18 +447,152 @@
       {
         "media": {
           "url": "../img/timeline/firmacostituzione.jpg",
-          "caption": "firma della costituzione italiana",
+          "caption": "E. De Nicola firma il testo della Costituzione alla presenza di De Gasperi e Terracini",
           "credit": " "
         },
         "start_date": {
+          "day":"1",
+          "month":"1",
           "year": "1948"
         },
         "group":"sardegna",
         "text": {
-          "headline": "La Sardegna è Regione a Statuto Speciale",
-          "text": "<p>Dopo l'entrata in vigore della Costituzione della Repubblica, il 26 Febbraio 1948 viene riconosciuto lo Statuto speciale della Regione Sardegna</p>"
+          "headline": "Entra in vigore la Costituzione della Repubblica Italiana",
+          "text": "<p>Due mesi dopo (26 Febbraio) viene riconosciuto lo Statuto speciale della Regione Sardegna.</p>"
         }
       },
+
+      {
+        "media": {
+          "url": "../img/timeline/torri_gemelle.jpg",
+          "caption": "Attacco alle Torri Gemelle del World Trade Center",
+          "credit": " "
+        },
+        "start_date": {
+          "day":"11",
+          "month":"9",
+          "year": "2001"
+        },
+        "group":"storia",
+        "text": {
+          "headline": "Attacco terroristico alle Twin Towers",
+          "text": "<p>Due aerei di linea dirottati da terroristi di Al-Qaeda si schiantano sulle torri del World Trade Center a New York.</p><p>È considerata l'azione terroristica più grave dell'epoca contemporanea.</p>"
+        }
+      },
+
+      {
+        "media": {
+          "url": "../img/timeline/zuckerberg.jpg",
+          "caption": "Marc Zuckerberg, fondatore di Facebook",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "2004"
+        },
+        "group":"storia",
+        "text": {
+          "headline": "Nasce il Social Network",
+          "text": "<p>Marc Zuckerberg, insieme ad altri studenti dell'Università di Harvard, crea la rete sociale Facebook.</p>"
+        }
+      },
+
+      {
+        "media": {
+          "url": "../img/timeline/Iphone-EDGE.jpg",
+          "caption": "iPhone - 2007",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "2007"
+        },
+        "group":"storia",
+        "text": {
+          "headline": "Apple Inc. mette in commercio il primo iPhone ",
+          "text": "<p>Si tratta del primo modello di smartphone GSM EDGE con funzioni multimediali di alto livello.</p>"
+        }
+      },
+
+      {
+        "media": {
+          "url": "../img/timeline/obama.jpg",
+          "caption": "Barack Obama",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "2009"
+        },
+        "group":"storia",
+        "text": {
+          "headline": "Barack Obama presidente",
+          "text": "<p>Barack Obama viene eletto Presidente degli Stati Uniti d'America. È il primo presidente nero del paese. Nel 2013 ha ottenuto il secondo mandato.</p>"
+        }
+      },
+
+      {
+        "media": {
+          "url": "../img/timeline/TONELLI_bosone.jpg",
+          "caption": "Il fisico Guido Tonelli, membro dell'équipe scientifica del CERN di Ginevra che ha realizzato la scoperta",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "2012"
+        },
+        "group":"scoperte scientifiche",
+        "text": {
+          "headline": "Scoperto il bosone di Higgs",
+          "text": "<p>Cosiddetta 'particella di Dio' per il suo coinvolgimento nel processo di formazione dell'universo con la funzione di aggregare la materia creando la massa delle particelle elementari.</p>"
+        }
+      },
+
+      {
+        "media": {
+          "url": "../img/timeline/cristoforetti.jpg",
+          "caption": "Samantha Cristoforetti",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "2014"
+        },
+        "group":"scoperte scientifiche",
+        "text": {
+          "headline": "Record europeo di permanenza nello spazio",
+          "text": "<p>Samantha Cristoforetti con la missione scientifica ISS Expedition resta in orbita 199 giorni nella Stazione Spaziale Internazionale.</p><p>Gli esperimenti svolti durante la missione riguardano la fisiologia umana, la biologia e la stampa 3D per la realizzazione di pezzi di ricambio per la stazione stessa.</p>"
+        }
+      },
+
+      {
+        "media": {
+          "url": "../img/timeline/Malala.jpg",
+          "caption": "Malala durante il suo intervento al Palazzo di Vetro dell'Onu nel 2013",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "2014"
+        },
+        "group":"storia",
+        "text": {
+          "headline": "Malala Yousafzai riceve il premio Nobel per la Pace",
+          "text": "<p>A 17 anni è la più giovane attivista a ricevere il riconoscimento internazionale per la sua campagna per i diritti umani a favore delle donne e per l'impegno 'contro la sopraffazione dei giovani e dei bambini e per il diritto di tutti i bambini all'istruzione'.</p>"
+        }
+      },
+
+      {
+        "media": {
+          "url": "../img/timeline/onde_gravitazionali.jpg",
+          "caption": "Buchi neri",
+          "credit": " "
+        },
+        "start_date": {
+          "year": "2014"
+        },
+        "group":"scoperte scientifiche",
+        "text": {
+          "headline": "Onde gravitazionali",
+          "text": "<p>Per la prima volta gli scienziati (consorzio italo-francese VIRGO) osservano le onde gravitazionali prodotte nella collisione di due buchi neri.</p><p>Il fenomeno era stato ipotizzato 100 anni prima da A. Einstein nella teoria della relatività.</p>"
+        }
+      },
+
+
       {
         "media": {
           "url": "../img/timeline/logo450uniss.jpg",
@@ -441,7 +608,7 @@
           "text": "<p>&nbsp;</p>"
         }
       }
-     
-     
+
+
     ]
 }
