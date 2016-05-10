@@ -1,0 +1,12 @@
+museo.uniss.it
+ftp: hostweb4.ammin.uniss.it
+usr: admmuseo
+// pw: 88Mnotor88
+
+IP privato: 192.168.48.117
+IP pubblico: 193.204.202.126
+
+Per l'amministrazione del database è disponibile il link:
+https://dbmysql4.ammin.uniss.it
+(utente: admmuseo, db: museo, credenziali nel file allegato)
+parola: pw: 88Mnotor88
